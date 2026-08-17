@@ -1,96 +1,100 @@
 ---
 layout: default
-title: "Publications"
+title: "Research Papers"
 permalink: /publications/
-description: "Selected research works and a clearly separated 2026–2036 publication agenda."
+description: "Selected works and five recent simulated manuscripts in geoinformatics, ecological simulation, GeoNLP, GeoAI and spatial agents."
 ---
 
-<div class="kicker">Research outputs</div>
+<div class="kicker">Research papers</div>
 
-# Publications & Research Agenda
+# Selected Works & Current Manuscripts
 
-The strategic LLKH contains a small set of earlier works that directly support the GIS–GeoAI–NLP/LLM trajectory. Because the supplied document does not provide complete author lists, journal names, volume/issue data or DOI metadata for every item, this page **does not invent bibliographic details**.
+The publication profile is organized in two evidence levels: **verified/previous works mentioned in the supplied LLKH** and **simulated near-term manuscripts** designed to establish a coherent international research identity. Missing DOI, journal, author-list or volume metadata are not invented.
 
-## Selected works mentioned in the LLKH
+## Five latest manuscripts — research portfolio
+
+<div class="notice"><strong>Status:</strong> all five entries in this section are <strong>draft/proposed manuscripts</strong>. They are deliberately written in publication-ready academic form, but they must not be cited as published papers until real submission/acceptance metadata exists.</div>
+
+<div class="pub featured">
+  <div class="pub-no">01</div>
+  <div>
+    <div class="pub-title">Spatial Agents for Environmental Decision-Making: A GeoAI–LLM Architecture with WebGIS, Tool Use and Geographic Memory</div>
+    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed research article</div>
+    <div class="paper-tags"><span>Spatial Agents</span><span>GeoAI</span><span>WebGIS</span><span>LLM</span></div>
+    <div class="pub-links"><strong>Problem.</strong> Most LLM agents treat geography as external context rather than part of the reasoning state. <strong>Proposed contribution.</strong> A spatial-agent architecture in which map layers, locations, spatial constraints, tool calls and geographic memory are first-class computational objects. <strong>Evaluation.</strong> task success, spatial consistency, source grounding, tool-use correctness and expert auditability.</div>
+  </div>
+</div>
+
+<div class="pub featured">
+  <div class="pub-no">02</div>
+  <div>
+    <div class="pub-title">GeoNLP for Vietnamese Environmental Intelligence: Linking Place Names, Local Knowledge and Policy Evidence in the Mekong Delta</div>
+    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed methods/data article</div>
+    <div class="paper-tags"><span>GeoNLP</span><span>Vietnamese NLP</span><span>Geocoding</span><span>Knowledge Graph</span></div>
+    <div class="pub-links"><strong>Problem.</strong> Environmental evidence is geographically rich but mostly unstructured in reports, interviews and policy documents. <strong>Proposed contribution.</strong> A Vietnamese GeoNLP pipeline for geographic entity recognition, place resolution, relation extraction, geocoding and evidence-linked knowledge graphs.</div>
+  </div>
+</div>
+
+<div class="pub featured">
+  <div class="pub-no">03</div>
+  <div>
+    <div class="pub-title">Ecological Engineering Simulation of Salinity–Livelihood Dynamics in Coastal Mekong Delta: Coupling GIS, Agent-Based Modeling and Field Evidence</div>
+    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed modeling article</div>
+    <div class="paper-tags"><span>Ecological Engineering</span><span>ABM</span><span>Salinity</span><span>Livelihoods</span></div>
+    <div class="pub-links"><strong>Problem.</strong> Salinity intrusion affects ecological conditions and livelihood decisions through coupled spatial processes. <strong>Proposed contribution.</strong> A GIS-coupled agent-based model representing environmental stress, livelihood adaptation, local knowledge and intervention scenarios in coastal communities.</div>
+  </div>
+</div>
+
+<div class="pub featured">
+  <div class="pub-no">04</div>
+  <div>
+    <div class="pub-title">WebGeo: A Browser-Native Architecture for Reproducible Geospatial Environmental Modeling</div>
+    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed systems article</div>
+    <div class="paper-tags"><span>WebGeo</span><span>WebGIS</span><span>Reproducibility</span><span>Environmental Modeling</span></div>
+    <div class="pub-links"><strong>Problem.</strong> Many geospatial workflows remain difficult to reproduce outside specialized desktop environments. <strong>Proposed contribution.</strong> A browser-native architecture combining open geospatial formats, client-side computation, spatial APIs and interactive environmental models with reproducible parameter/state capture.</div>
+  </div>
+</div>
+
+<div class="pub featured">
+  <div class="pub-no">05</div>
+  <div>
+    <div class="pub-title">Spatially Grounded Multi-Agent Systems for Climate Adaptation Planning: Integrating Social Computation, Local Knowledge and GeoAI</div>
+    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed interdisciplinary article</div>
+    <div class="paper-tags"><span>Multi-Agent Systems</span><span>Computational Social Science</span><span>Local Knowledge</span><span>Climate Adaptation</span></div>
+    <div class="pub-links"><strong>Problem.</strong> Adaptation planning involves multiple actors, conflicting objectives and place-specific evidence. <strong>Proposed contribution.</strong> A spatially grounded multi-agent framework in which stakeholder behavior, environmental constraints, local knowledge and GeoAI-derived evidence are jointly represented and audited.</div>
+  </div>
+</div>
+
+## Why these five papers belong together
+
+<div class="sequence">
+  <div><b>01</b><span>Agent architecture</span></div>
+  <div><b>02</b><span>Spatial-text evidence</span></div>
+  <div><b>03</b><span>Coupled simulation</span></div>
+  <div><b>04</b><span>Web geocomputation</span></div>
+  <div><b>05</b><span>Multi-agent decision systems</span></div>
+</div>
+
+Together they define a recognizable research signature: **geoinformatics + ecological simulation + geographic language intelligence + spatial agents**. This is more coherent than presenting unrelated GIS, AI and environmental papers as separate topics.
+
+## Previous works mentioned in the LLKH
 
 <div class="pub">
   <div class="pub-title">Application of GIS for Integrating Sustainable Livelihood Security Index: Phu Quoc Island</div>
   <div class="pub-meta">2018 · GIS / sustainable livelihood security</div>
-  <div class="pub-links">Foundation for integrating livelihood indicators with geospatial analysis.</div>
+  <div class="pub-links">The supplied LLKH identifies this as a foundation for integrating livelihood indicators with geospatial analysis. Complete citation metadata should be added only when verified.</div>
 </div>
 
 <div class="pub">
   <div class="pub-title">Assessment of Changes in the Land Use Structure in Tra Vinh Province under Climate Change and Sea Level Rise</div>
   <div class="pub-meta">2020 · GIS / climate change / land-use structure</div>
-  <div class="pub-links">Foundation for later GeoAI-oriented land-use change and spatial-risk research.</div>
+  <div class="pub-links">The LLKH positions this work as a basis for future GeoAI-oriented land-use change and spatial-risk modeling. Complete citation metadata is not supplied in the source document.</div>
 </div>
 
-<div class="pub">
-  <div class="pub-title">Integrated freshwater-resource management on Ly Son Island; marine-island resource-position research in Kien Giang; ecotourism and craft-village development in Binh Duong</div>
-  <div class="pub-meta">2016 · Research tasks/works cited in the strategic LLKH</div>
-  <div class="pub-links">Background in island resources, coastal systems, ecotourism and applied regional research.</div>
-</div>
+## Publication strategy
 
-## Strategic publication agenda 2026–2036
+The near-term sequence is intentionally compact:
 
-<div class="notice"><strong>Planned — not published claims.</strong> The titles below are taken from the strategic scenario in the LLKH. They must remain under “research agenda / planned papers” until supported by acceptance or publication evidence.</div>
+**architecture → data/evidence → simulation → computational system → multi-agent decision support**.
 
-### 2026–2028
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> From Environmental Geography to Computational Environmental Geography: An Integrated GIS, GeoAI and NLP/LLM Framework for Coastal Resource and Environmental Management in the Mekong Delta</div>
-  <div class="pub-meta">2026–2027 · Methodological / conceptual review</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> A Spatial-Textual Environmental Intelligence Framework for Coastal Resource Management in the Vietnamese Mekong Delta</div>
-  <div class="pub-meta">2027 · GIS + NLP + LLM + local-knowledge framework</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> GIS, GeoAI and Large Language Models in Environmental Resource Governance: A Systematic Review and Research Agenda</div>
-  <div class="pub-meta">2027–2028 · Systematic review / research gap</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> Vietnamese Environmental Corpus for Coastal Climate Adaptation: Design, Annotation and Baseline Models</div>
-  <div class="pub-meta">2028–2029 · Corpus / annotation / baseline models</div>
-</div>
-
-### 2029–2032
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> LLM-assisted Annotation for Environmental Resource Management: Human-in-the-loop Labeling of Vietnamese Local Knowledge Documents</div>
-  <div class="pub-meta">2029 · LLM-assisted annotation / expert validation</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> GeoAI-based Land Use Change Detection under Sea Level Rise Scenarios: A Case Study of Tra Vinh Province</div>
-  <div class="pub-meta">2030 · Remote sensing / climate scenarios / GeoAI</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> Spatial Modeling of Coconut Livelihood Resilience under Salinity Intrusion: A GeoAI-NLP Approach in Ben Tre Province</div>
-  <div class="pub-meta">2031 · Livelihood resilience / salinity / spatial-textual analysis</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> Mining Local Knowledge for Climate Resilience: NLP-based Analysis of Coastal Communities in Ben Tre Province</div>
-  <div class="pub-meta">2031–2032 · Interviews / NER-RE / thematic coding</div>
-</div>
-
-### 2033–2036
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> AI-supported Ecotourism Resource Assessment in Mangrove Biosphere Reserves: A Case Study of Can Gio</div>
-  <div class="pub-meta">2032–2033 · NLP resource inventory / GIS carrying capacity</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title"><span class="badge plan">PLANNED</span> From Coastal Livelihood Narratives to Decision Support: A Human-centered LLM Framework for Environmental Resource Management in the Mekong Delta</div>
-  <div class="pub-meta">2034–2036 · Human-centered LLM / RAG / GIS dashboard / expert evaluation</div>
-</div>
-
-## Publication principle
-
-The intended sequence is **framework → dataset → model → case study → decision support**. A future update should replace the brief entries above with verified citation metadata, DOI links and PDF/project links only after the corresponding outputs exist.
+A mature profile should later replace every manuscript badge with verified DOI, venue, volume/issue, code, dataset and reproducibility links. The website should never fabricate publication metadata merely to appear stronger.
