@@ -2,78 +2,73 @@
 layout: default
 title: "Academic CV"
 permalink: /cv/
-description: "Academic CV of Long Ngo (Ngô Hoàng Đại Long / N.H.D.L.) in geoinformatics and environmental systems research."
+description: "Condensed academic CV of Long Ngo (Ngô Hoàng Đại Long / N.H.D.L.)."
 ---
 
-<div class="kicker">Curriculum vitae</div>
+<div class="kicker">CV.EXE / ACADEMIC PROFILE</div>
 
 # Long Ngo
 
-**Full name:** Ngô Hoàng Đại Long  
-**Research initials:** N.H.D.L.  
-**Current role:** Researcher, VNU-HCM Branch in Ben Tre Province  
-**Unit:** Postgraduate Studies – Science & Technology  
-**Current degree stated in the supplied LLKH:** Master's degree in Geography  
-**Research identity:** Geoinformatics · Ecological Engineering Simulation · Environmental Modeling · Computational Social Science · WebGeo/WebGIS · GeoNLP · GeoAI · Spatial Agents
-
-<div class="notice neutral"><strong>Profile benchmark:</strong> the CV is structured toward an internationally competitive, top-decile-caliber research profile. This is a positioning target and quality benchmark, not a claim of verified top-10% bibliometric status.</div>
+**Full name:** Ngô Hoàng Đại Long (N.H.D.L.)  
+**Role:** Geoinformatics & Environmental Systems Researcher  
+**Unit:** Department of Engineering and Technology  
+**Institution:** Vietnam National University Ho Chi Minh City – Campus in Ben Tre, Vinh Long, 930000, Vietnam  
+**Email:** [nhdlong@vnuhcm.edu.vn](mailto:nhdlong@vnuhcm.edu.vn)  
+**Institutional website:** [vnuhcm.edu.vn](https://vnuhcm.edu.vn)  
+**LinkedIn:** [linkedin.com/in/ngohoangdailong](https://www.linkedin.com/in/ngohoangdailong/)  
+**GitHub:** [Base27-CVNSS/LogpWoy](https://github.com/Base27-CVNSS/LogpWoy)
 
 ## Research profile
 
-Long Ngo develops a cross-disciplinary research program around **spatially grounded intelligence for environmental and social systems**. The program extends an established foundation in environmental geography, coastal livelihoods, climate-change adaptation and GIS toward geoinformatics, environmental simulation, GeoNLP, GeoAI and AI agents that can reason with geographic context.
+Long Ngo works across <strong>geoinformatics</strong>, <strong>environmental modeling</strong>, <strong>ecological engineering simulation</strong>, <strong>computational social science</strong>, <strong>WebGeo/WebGIS</strong>, <strong>GeoNLP</strong>, <strong>GeoAI</strong>, and <strong>spatially grounded agent systems</strong>.
 
-The intended research signature is:
+<div class="signature-box">
+  <div class="signature-main">SPACE × ECOLOGY × SOCIETY × LANGUAGE × AGENTS</div>
+  <p>Research is organized as an evidence chain from spatial data and environmental processes to language-aware reasoning, simulation, and decision-support systems.</p>
+</div>
 
-**SPACE × ECOLOGY × SOCIETY × LANGUAGE × AGENTS**
+## Areas of expertise
 
-## Core expertise
+<div class="stack-grid">
+  <div><span>Geoinformatics</span><strong>GIS · Remote sensing · Spatial databases · Spatial analysis</strong></div>
+  <div><span>Simulation</span><strong>Environmental modeling · CA · ABM · System Dynamics</strong></div>
+  <div><span>WebGeo</span><strong>WebGIS · Spatial APIs · Browser-native geospatial systems</strong></div>
+  <div><span>GeoNLP</span><strong>Place-aware NLP · Ontologies · Knowledge graphs · RAG</strong></div>
+  <div><span>GeoAI</span><strong>Spatial ML · GNN · Explainable spatial prediction</strong></div>
+  <div><span>Spatial agents</span><strong>Tool use · Geographic memory · Multi-agent systems</strong></div>
+</div>
 
-- **Geoinformatics:** GIS, remote sensing, spatial databases, geospatial data engineering, geostatistics, GeoJSON/PostGIS and reproducible spatial analytics.
-- **Ecological engineering simulation:** environmental modeling, ecological process abstraction, risk scenarios, coupled human–environment systems and decision-oriented simulation.
-- **Computational social science:** livelihood systems, local knowledge, spatial indicators, adaptation behavior and agent-based modeling.
-- **WebGeo / WebGIS:** browser-native geospatial computation, spatial APIs, interactive environmental models and decision dashboards.
-- **GeoNLP:** geographic NER, place resolution, geocoding, spatial relation extraction, document-to-map pipelines and spatial-textual knowledge graphs.
-- **GeoAI & spatial agents:** multimodal spatial evidence, RAG, tool-using agents, spatial memory, map-aware planning and multi-agent decision systems.
+## Current research architecture
 
-## Education & training foundation
+<div class="flowline">
+  <span>GEODATA</span><b>→</b><span>MODELS</span><b>→</b><span>LANGUAGE</span><b>→</b><span>AGENTS</span><b>→</b><span>DECISIONS</span>
+</div>
 
-- **2004–2008 — Tourism Geography.** Regional tourism linkages, tourism-resource survey/mapping and spatial analysis.
-- **2010–2014/2015 — Master's in Geography.** Coastal/island ecotourism in Ha Tien–Kien Giang; ecological economy and marine-island geography.
-- **Natural Resources & Environmental Management — doctoral/research direction described in the LLKH.** The strategic document proposes a GIS–GeoAI–NLP/LLM-oriented doctoral direction; this website does not present a doctoral degree as completed.
-- Applied GIS for social-environmental research.
+## Current manuscript portfolio
 
-## Professional trajectory
+1. **Spatial Agents for Environmental Decision-Making: A GeoAI–LLM Architecture with WebGIS, Tool Use and Geographic Memory** — proposed manuscript.
+2. **GeoNLP for Vietnamese Environmental Intelligence: Linking Place Names, Local Knowledge and Policy Evidence in the Mekong Delta** — proposed manuscript.
+3. **Ecological Engineering Simulation of Salinity–Livelihood Dynamics in the Coastal Mekong Delta: Coupling GIS, Agent-Based Modeling and Field Evidence** — proposed manuscript.
+4. **WebGeo: A Browser-Native Architecture for Reproducible Geospatial Environmental Modeling** — proposed manuscript.
+5. **Spatially Grounded Multi-Agent Systems for Climate Adaptation Planning: Integrating Social Computation, Local Knowledge and GeoAI** — proposed manuscript.
 
-| Period | Role / activity | Research value |
-|---|---|---|
-| 2010–2020 | Researcher, postgraduate academic administration and project work at the University of Social Sciences and Humanities, VNU-HCM | Coastal/island research, livelihoods, climate change, GIS, workshops, proceedings and research-file administration |
-| 2017–2026 | Natural Resources & Environmental Management doctoral/research direction stated in the LLKH | Environmental resources, ecological economy, GIS, modeling and data-oriented transition |
-| 2021–2026 | Researcher at VNU-HCM Branch in Ben Tre Province | Postgraduate work, S&T coordination, quality assurance, research data/evidence and task administration |
-| 2026–2028 | Scientific-secretariat role for the oyster-farming task described in the strategic LLKH | Data coordination, reporting, traceability, training and science communication |
+<div class="notice neutral">These titles describe an active research/manuscript portfolio. They are not listed as published or accepted papers unless documentary evidence is added later.</div>
 
-## Selected established research foundations
+## Intellectual lineage & direct influences
 
-- Integrated freshwater-resource management on Ly Son Island and marine-island resource-position research in Kien Giang.
-- Climate-change livelihood adaptation around the Ba Lai sluice/dam system, Ben Tre.
-- *Application of GIS for Integrating Sustainable Livelihood Security Index: Phu Quoc Island* (2018).
-- Climate-smart agriculture and climate-change adaptation in the Mekong Delta.
-- *Assessment of Changes in the Land Use Structure in Tra Vinh Province under Climate Change and Sea Level Rise* (2020).
-- Sustainable livelihoods linked to conservation in the Can Gio mangrove biosphere reserve.
+The conceptual lineage used in this profile connects Russian physical-geography and landscape theory, Chinese natural regionalization and geoinformatics, and Vietnamese localization in natural geography, GIS, remote sensing, and applied geoinformatics.
 
-## Five current manuscript concepts
+The direct formative influences highlighted in this profile are <strong>Tang Van Dom</strong> and <strong>Vuong Tuong Van</strong>.
 
-1. **Spatial Agents for Environmental Decision-Making: A GeoAI–LLM Architecture with WebGIS, Tool Use and Geographic Memory** — proposed manuscript, 2026.
-2. **GeoNLP for Vietnamese Environmental Intelligence: Linking Place Names, Local Knowledge and Policy Evidence in the Mekong Delta** — proposed manuscript, 2026.
-3. **Ecological Engineering Simulation of Salinity–Livelihood Dynamics in Coastal Mekong Delta: Coupling GIS, Agent-Based Modeling and Field Evidence** — proposed manuscript, 2026.
-4. **WebGeo: A Browser-Native Architecture for Reproducible Geospatial Environmental Modeling** — proposed manuscript, 2026.
-5. **Spatially Grounded Multi-Agent Systems for Climate Adaptation Planning: Integrating Social Computation, Local Knowledge and GeoAI** — proposed manuscript, 2026.
+<div class="action-row"><button class="ui-button" type="button" data-lineage-open>OPEN ACADEMIC LINEAGE.EXE</button></div>
 
-These are research-development titles, not publication claims. Full citation metadata should be added only after real submission or publication evidence exists.
+## Next-generation direction
 
-## Strategic research objective
+- **Simulation:** landscape dynamics, cellular automata, agent-based modeling, and system dynamics.
+- **GeoAI:** spatial machine learning, graph neural networks, physics-informed models, and regional prediction.
+- **GeoNLP & spatial knowledge:** landscape ontologies, knowledge graphs, geographic language models, and place-aware querying.
+- **Spatial agents:** map-grounded reasoning, geospatial tool use, geographic memory, and multi-agent decision support.
 
-Develop an internationally competitive research program in **geoinformatics and spatial environmental intelligence**, with distinctive contributions at the intersection of environmental systems modeling, computational social science, geographic language intelligence and spatially grounded AI agents.
+## Working principles
 
-## Public profile policy
-
-The public CV omits nonessential personal information such as date of birth. Institutional email, ORCID, Google Scholar, Scopus Author ID, DOI links, datasets and code links should be added only when supplied or verified.
+Evidence first · Spatial grounding · Reproducibility · Human-in-the-loop · Decision relevance · Open computational workflows

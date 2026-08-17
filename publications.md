@@ -1,100 +1,42 @@
 ---
 layout: default
-title: "Research Papers"
+title: "Papers"
 permalink: /publications/
-description: "Selected works and five recent simulated manuscripts in geoinformatics, ecological simulation, GeoNLP, GeoAI and spatial agents."
+description: "Selected research outputs and proposed manuscript portfolio of Long Ngo."
 ---
 
-<div class="kicker">Research papers</div>
+<div class="kicker">PAPERS.EXE / EVIDENCE STATUS</div>
 
-# Selected Works & Current Manuscripts
+# Papers
 
-The publication profile is organized in two evidence levels: **verified/previous works mentioned in the supplied LLKH** and **simulated near-term manuscripts** designed to establish a coherent international research identity. Missing DOI, journal, author-list or volume metadata are not invented.
+This page separates <strong>documented prior work</strong> from <strong>current manuscript concepts</strong>. Proposed manuscripts are not presented as published, accepted, indexed, or DOI-bearing outputs.
 
-## Five latest manuscripts — research portfolio
+## Current manuscript portfolio
 
-<div class="notice"><strong>Status:</strong> all five entries in this section are <strong>draft/proposed manuscripts</strong>. They are deliberately written in publication-ready academic form, but they must not be cited as published papers until real submission/acceptance metadata exists.</div>
+<div class="pub featured"><div class="pub-no">P01</div><div><div class="pub-title">Spatial Agents for Environmental Decision-Making: A GeoAI–LLM Architecture with WebGIS, Tool Use and Geographic Memory</div><div class="pub-meta"><span class="badge plan">MANUSCRIPT</span> Long Ngo (N.H.D.L.) · proposed</div><div class="pub-links">Problem: environmental AI often lacks explicit spatial grounding. Proposed contribution: a map-aware agent architecture that links WebGIS, tools, geographic memory, and language reasoning.</div><div class="paper-tags"><span>Spatial Agents</span><span>GeoAI</span><span>LLM</span><span>WebGIS</span></div></div></div>
 
-<div class="pub featured">
-  <div class="pub-no">01</div>
-  <div>
-    <div class="pub-title">Spatial Agents for Environmental Decision-Making: A GeoAI–LLM Architecture with WebGIS, Tool Use and Geographic Memory</div>
-    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed research article</div>
-    <div class="paper-tags"><span>Spatial Agents</span><span>GeoAI</span><span>WebGIS</span><span>LLM</span></div>
-    <div class="pub-links"><strong>Problem.</strong> Most LLM agents treat geography as external context rather than part of the reasoning state. <strong>Proposed contribution.</strong> A spatial-agent architecture in which map layers, locations, spatial constraints, tool calls and geographic memory are first-class computational objects. <strong>Evaluation.</strong> task success, spatial consistency, source grounding, tool-use correctness and expert auditability.</div>
-  </div>
-</div>
+<div class="pub featured"><div class="pub-no">P02</div><div><div class="pub-title">GeoNLP for Vietnamese Environmental Intelligence: Linking Place Names, Local Knowledge and Policy Evidence in the Mekong Delta</div><div class="pub-meta"><span class="badge plan">MANUSCRIPT</span> Long Ngo (N.H.D.L.) · proposed</div><div class="pub-links">Problem: environmental documents contain place-rich knowledge that is difficult to connect with maps. Proposed contribution: a Vietnamese GeoNLP pipeline linking geographic entities, local knowledge, policy evidence, and spatial context.</div><div class="paper-tags"><span>GeoNLP</span><span>Place Names</span><span>Local Knowledge</span><span>Mekong Delta</span></div></div></div>
 
-<div class="pub featured">
-  <div class="pub-no">02</div>
-  <div>
-    <div class="pub-title">GeoNLP for Vietnamese Environmental Intelligence: Linking Place Names, Local Knowledge and Policy Evidence in the Mekong Delta</div>
-    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed methods/data article</div>
-    <div class="paper-tags"><span>GeoNLP</span><span>Vietnamese NLP</span><span>Geocoding</span><span>Knowledge Graph</span></div>
-    <div class="pub-links"><strong>Problem.</strong> Environmental evidence is geographically rich but mostly unstructured in reports, interviews and policy documents. <strong>Proposed contribution.</strong> A Vietnamese GeoNLP pipeline for geographic entity recognition, place resolution, relation extraction, geocoding and evidence-linked knowledge graphs.</div>
-  </div>
-</div>
+<div class="pub featured"><div class="pub-no">P03</div><div><div class="pub-title">Ecological Engineering Simulation of Salinity–Livelihood Dynamics in the Coastal Mekong Delta: Coupling GIS, Agent-Based Modeling and Field Evidence</div><div class="pub-meta"><span class="badge plan">MANUSCRIPT</span> Long Ngo (N.H.D.L.) · proposed</div><div class="pub-links">Problem: salinity adaptation is both environmental and behavioral. Proposed contribution: couple spatial salinity evidence, livelihood agents, field observations, and intervention scenarios.</div><div class="paper-tags"><span>Simulation</span><span>ABM</span><span>GIS</span><span>Salinity</span></div></div></div>
 
-<div class="pub featured">
-  <div class="pub-no">03</div>
-  <div>
-    <div class="pub-title">Ecological Engineering Simulation of Salinity–Livelihood Dynamics in Coastal Mekong Delta: Coupling GIS, Agent-Based Modeling and Field Evidence</div>
-    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed modeling article</div>
-    <div class="paper-tags"><span>Ecological Engineering</span><span>ABM</span><span>Salinity</span><span>Livelihoods</span></div>
-    <div class="pub-links"><strong>Problem.</strong> Salinity intrusion affects ecological conditions and livelihood decisions through coupled spatial processes. <strong>Proposed contribution.</strong> A GIS-coupled agent-based model representing environmental stress, livelihood adaptation, local knowledge and intervention scenarios in coastal communities.</div>
-  </div>
-</div>
+<div class="pub featured"><div class="pub-no">P04</div><div><div class="pub-title">WebGeo: A Browser-Native Architecture for Reproducible Geospatial Environmental Modeling</div><div class="pub-meta"><span class="badge plan">MANUSCRIPT</span> Long Ngo (N.H.D.L.) · proposed</div><div class="pub-links">Problem: many spatial workflows remain difficult to reproduce outside specialist desktop environments. Proposed contribution: a browser-native architecture for transparent geospatial modeling and repeatable analysis.</div><div class="paper-tags"><span>WebGeo</span><span>WebGIS</span><span>Reproducibility</span><span>Spatial APIs</span></div></div></div>
 
-<div class="pub featured">
-  <div class="pub-no">04</div>
-  <div>
-    <div class="pub-title">WebGeo: A Browser-Native Architecture for Reproducible Geospatial Environmental Modeling</div>
-    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed systems article</div>
-    <div class="paper-tags"><span>WebGeo</span><span>WebGIS</span><span>Reproducibility</span><span>Environmental Modeling</span></div>
-    <div class="pub-links"><strong>Problem.</strong> Many geospatial workflows remain difficult to reproduce outside specialized desktop environments. <strong>Proposed contribution.</strong> A browser-native architecture combining open geospatial formats, client-side computation, spatial APIs and interactive environmental models with reproducible parameter/state capture.</div>
-  </div>
-</div>
+<div class="pub featured"><div class="pub-no">P05</div><div><div class="pub-title">Spatially Grounded Multi-Agent Systems for Climate Adaptation Planning: Integrating Social Computation, Local Knowledge and GeoAI</div><div class="pub-meta"><span class="badge plan">MANUSCRIPT</span> Long Ngo (N.H.D.L.) · proposed</div><div class="pub-links">Problem: climate-adaptation planning requires interacting social, environmental, and institutional perspectives. Proposed contribution: a spatial multi-agent framework that connects social computation, local knowledge, and GeoAI.</div><div class="paper-tags"><span>Multi-Agent</span><span>Climate Adaptation</span><span>Social Computation</span><span>GeoAI</span></div></div></div>
 
-<div class="pub featured">
-  <div class="pub-no">05</div>
-  <div>
-    <div class="pub-title">Spatially Grounded Multi-Agent Systems for Climate Adaptation Planning: Integrating Social Computation, Local Knowledge and GeoAI</div>
-    <div class="pub-meta"><strong>Long Ngo (N.H.D.L.)</strong> · 2026 · Proposed interdisciplinary article</div>
-    <div class="paper-tags"><span>Multi-Agent Systems</span><span>Computational Social Science</span><span>Local Knowledge</span><span>Climate Adaptation</span></div>
-    <div class="pub-links"><strong>Problem.</strong> Adaptation planning involves multiple actors, conflicting objectives and place-specific evidence. <strong>Proposed contribution.</strong> A spatially grounded multi-agent framework in which stakeholder behavior, environmental constraints, local knowledge and GeoAI-derived evidence are jointly represented and audited.</div>
-  </div>
-</div>
+<div class="notice neutral"><strong>Status rule:</strong> journal name, DOI, volume, issue, indexing status, citation count, acceptance, or publication year should be added only when documentary evidence exists.</div>
 
-## Why these five papers belong together
+## Research sequence
 
 <div class="sequence">
-  <div><b>01</b><span>Agent architecture</span></div>
-  <div><b>02</b><span>Spatial-text evidence</span></div>
-  <div><b>03</b><span>Coupled simulation</span></div>
-  <div><b>04</b><span>Web geocomputation</span></div>
-  <div><b>05</b><span>Multi-agent decision systems</span></div>
+  <div><b>01</b><span>Spatial-agent architecture</span></div>
+  <div><b>02</b><span>GeoNLP evidence layer</span></div>
+  <div><b>03</b><span>Environmental simulation</span></div>
+  <div><b>04</b><span>WebGeo reproducibility</span></div>
+  <div><b>05</b><span>Multi-agent planning</span></div>
 </div>
 
-Together they define a recognizable research signature: **geoinformatics + ecological simulation + geographic language intelligence + spatial agents**. This is more coherent than presenting unrelated GIS, AI and environmental papers as separate topics.
+The sequence is designed to build a recognizable research signature rather than a collection of unrelated topics: <strong>spatial evidence → environmental models → geographic language → agent reasoning → decision support</strong>.
 
-## Previous works mentioned in the LLKH
+## Evidence policy
 
-<div class="pub">
-  <div class="pub-title">Application of GIS for Integrating Sustainable Livelihood Security Index: Phu Quoc Island</div>
-  <div class="pub-meta">2018 · GIS / sustainable livelihood security</div>
-  <div class="pub-links">The supplied LLKH identifies this as a foundation for integrating livelihood indicators with geospatial analysis. Complete citation metadata should be added only when verified.</div>
-</div>
-
-<div class="pub">
-  <div class="pub-title">Assessment of Changes in the Land Use Structure in Tra Vinh Province under Climate Change and Sea Level Rise</div>
-  <div class="pub-meta">2020 · GIS / climate change / land-use structure</div>
-  <div class="pub-links">The LLKH positions this work as a basis for future GeoAI-oriented land-use change and spatial-risk modeling. Complete citation metadata is not supplied in the source document.</div>
-</div>
-
-## Publication strategy
-
-The near-term sequence is intentionally compact:
-
-**architecture → data/evidence → simulation → computational system → multi-agent decision support**.
-
-A mature profile should later replace every manuscript badge with verified DOI, venue, volume/issue, code, dataset and reproducibility links. The website should never fabricate publication metadata merely to appear stronger.
+The profile distinguishes between historical/verified records and forward-looking research development. Current manuscript concepts are therefore explicitly labeled as proposed work until submission, acceptance, publication, or indexing can be documented.
