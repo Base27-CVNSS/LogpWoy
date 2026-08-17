@@ -4,7 +4,7 @@ Academic profile website for **Long Ngo**, professional name of **Ngô Hoàng Đ
 
 ## Research identity
 
-**Geoinformatics · Environmental Modeling · Ecological Engineering Simulation · Computational Social Science · WebGeo · WebGIS · GeoNLP · GeoAI · Spatial Agents**
+**Geoinformatics · ABM + GIS · Human Behavior · Urban Systems · Environmental Modeling · Ecological Engineering Simulation · WebGeo · WebGIS · GeoNLP · GeoAI · Spatial Agents**
 
 Research signature:
 
@@ -12,7 +12,7 @@ Research signature:
 
 Working pipeline:
 
-`GEODATA → MODELS → LANGUAGE → AGENTS → DECISIONS`
+`GEODATA → HUMAN BEHAVIOR → ABM + GIS → SPATIAL INTELLIGENCE → DECISION SUPPORT`
 
 ## Current position
 
@@ -27,27 +27,53 @@ Working pipeline:
 
 The site uses a compact **blue-white / MS-DOS-inspired / sans-serif / academic-minimal** design system:
 
-- 10–11 px primary UI/content scale
+- unified **12 px** UI/content scale
+- brighter blue-white palette and stronger interactive contrast
+- selective research highlights for core methods, position, manuscript titles, and influence blocks
 - terminal-style navigation and labels
-- high-contrast blue/white palette
 - compact sticky academic profile sidebar
 - responsive mobile layout
-- keyboard-accessible academic-lineage modal
+- keyboard-accessible influence/lineage modal
 - academic portrait asset at `assets/img/long-ngo-academic.jpg`
-- no decorative image numbering or unnecessary UI labels
+- secondary visual overrides in `assets/css/theme-v2.css`
 
-## Academic-lineage popup
+## Areas of expertise
 
-The global `LINEAGE.EXE` control opens a conceptual influence map that presents:
+The profile emphasizes the integration of **agent-based modeling (ABM)** and **geographic information systems (GIS)** to explore human behavior in spatially explicit environments.
+
+It also focuses on understanding natural and socio-economic environments, particularly urban areas, through:
+
+- GIS and spatial analysis
+- agent-based modeling
+- social network analysis
+- social media data
+- urban and socio-economic simulation
+- WebGIS and spatial decision support
+- GeoAI, GeoNLP, and spatially grounded agents
+
+A methodological reference for this direction is `http://www.gisagents.org/`.
+
+## Academic-lineage and influence popup
+
+The global `LINEAGE.EXE` control opens a conceptual influence map with two distinct layers:
+
+### Historical lineage
 
 1. Russian theoretical origins — V.V. Dokuchaev, L.S. Berg, A.G. Isachenko, V.S. Tikunov
 2. China — Huang Bingwei, Zheng Du, Chen Shupeng
 3. Vietnam — Le Ba Thao, Vuong Tuong Van, Tang Van Dom, Le Van Trung, Le Trung Chon, Vo Quang Minh
-4. Direct influences — Tang Van Dom and Vuong Tuong Van
-5. Current position — Long Ngo / N.H.D.L.
-6. Next-generation direction — Simulation, GeoAI, GeoNLP & Spatial Knowledge, Spatial Agents
 
-The popup explicitly describes this as a **conceptual lineage and influence map**, not a formal adviser–student genealogy.
+### Contemporary intellectual and methodological influences
+
+- V.S. Tikunov
+- Andrew Crooks
+- Philippe Caillou
+- Benoit Gaudou
+- Arnaud Grignard
+- Chi Quang Truong
+- Patrick Taillandier
+
+The popup explicitly describes the diagram as a **conceptual lineage and methodological influence map**, not a formal adviser–student genealogy or a claim of direct supervision by every person shown.
 
 ## Current manuscript portfolio
 
