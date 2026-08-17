@@ -1,0 +1,22 @@
+title: "Ngô Hoàng Đại Long"
+name: "Ngô Hoàng Đại Long"
+description: "Environmental Geography · GIS · GeoAI · NLP/LLM"
+url: "https://base27-cvnss.github.io"
+baseurl: "/LogpWoy"
+repository: "Base27-CVNSS/LogpWoy"
+lang: "vi"
+markdown: kramdown
+permalink: pretty
+future: false
+
+profile:
+  name: "Ngô Hoàng Đại Long"
+  role: "Researcher"
+  affiliation: "VNU-HCM Branch in Ben Tre Province"
+  unit: "Postgraduate Studies – Science & Technology"
+  location: "Ben Tre, Viet Nam"
+  github: "https://github.com/Base27-CVNSS/LogpWoy"
+  tagline: "Environmental Geography → GIS/Remote Sensing → GeoAI → NLP/LLM → Knowledge & Decision Support"
+
+exclude:
+  - README.md
