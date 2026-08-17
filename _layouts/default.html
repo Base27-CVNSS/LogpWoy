@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
-  <meta name="theme-color" content="#0b5fa5">
+  <meta name="theme-color" content="#0878e6">
   <meta name="author" content="{{ site.profile.fullname }}">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}">
@@ -15,6 +15,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/theme-v2.css' | relative_url }}">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -29,6 +30,19 @@
     "image": "{{ site.profile.image | absolute_url }}",
     "url": "{{ site.profile.website }}",
     "email": "mailto:{{ site.profile.email }}",
+    "knowsAbout": [
+      "Geoinformatics",
+      "Agent-based modeling",
+      "Geographic information systems",
+      "Human behavior",
+      "Urban systems",
+      "Spatial analysis",
+      "Social network analysis",
+      "Social media analysis",
+      "GeoNLP",
+      "GeoAI",
+      "Spatial agents"
+    ],
     "sameAs": ["{{ site.profile.linkedin }}", "{{ site.profile.github }}", "{{ site.profile.institutional_website }}"]
   }
   </script>
@@ -102,7 +116,7 @@
 
   <footer class="footer">
     <div>© {{ 'now' | date: '%Y' }} Long Ngo · Ngô Hoàng Đại Long</div>
-    <div class="footer-code">EVIDENCE_FIRST // GEOINFORMATICS // SPATIAL_INTELLIGENCE</div>
+    <div class="footer-code">EVIDENCE_FIRST // ABM+GIS // GEOINFORMATICS // SPATIAL_INTELLIGENCE</div>
   </footer>
 
   <div class="modal" id="lineage-modal" aria-hidden="true">
@@ -111,12 +125,12 @@
       <header class="modal-head">
         <div>
           <div class="modal-kicker">LINEAGE.EXE / CONCEPTUAL INFLUENCE MAP</div>
-          <h2 id="lineage-title">Academic lineage, direct influences, and current position</h2>
+          <h2 id="lineage-title">Academic lineage, methodological influences, and current position</h2>
         </div>
         <button class="modal-close" type="button" data-lineage-close aria-label="Close academic lineage dialog">ESC</button>
       </header>
 
-      <p class="modal-note">This diagram presents the conceptual lineage and direct influences used to describe this research profile. It is not presented as a formal adviser–student genealogy.</p>
+      <p class="modal-note">This diagram is a conceptual map of intellectual and methodological influences. It is not presented as a formal adviser–student genealogy or a claim of direct supervision by every person shown.</p>
 
       <div class="lineage-flow">
         <section class="lineage-stage">
@@ -124,8 +138,8 @@
           <div class="lineage-grid">
             <article><strong>V.V. Dokuchaev (1846–1903)</strong><span>Natural zonality theory; integrated geographic laws.</span></article>
             <article><strong>L.S. Berg (1876–1950)</strong><span>Development of zonality theory; early natural-regional mapping.</span></article>
-            <article><strong>A.G. Isachenko (1922–)</strong><span>Territorial regionalization theory; landscape-science methodology.</span></article>
-            <article><strong>V.S. Tikunov</strong><span>Geoinformatics-oriented modernization through GIS, remote sensing, and spatial modeling.</span></article>
+            <article><strong>A.G. Isachenko</strong><span>Territorial regionalization theory; landscape-science methodology.</span></article>
+            <article><strong>V.S. Tikunov</strong><span>Geoinformatics, GIS, cartographic modeling, remote sensing, and spatial systems.</span></article>
           </div>
         </section>
 
@@ -134,7 +148,7 @@
         <section class="lineage-stage">
           <div class="stage-label">02 / CHINA — INHERITANCE & DEVELOPMENT</div>
           <div class="lineage-grid three">
-            <article><strong>Huang Bingwei</strong><span>Application of natural regionalization to China; national-scale regionalization systems.</span></article>
+            <article><strong>Huang Bingwei</strong><span>Application of natural regionalization to China and national-scale regionalization systems.</span></article>
             <article><strong>Zheng Du</strong><span>Regionalization of high mountains and plateaus; integration of zonal and azonal thinking.</span></article>
             <article><strong>Chen Shupeng</strong><span>Development of Chinese geoinformatics through GIS, remote sensing, and digital cartography.</span></article>
           </div>
@@ -148,11 +162,11 @@
             <div>
               <h3>Regionalization & landscape theory</h3>
               <article><strong>Prof. Le Ba Thao</strong><span>Reception of integrated-geography thinking and systematization of natural regionalization in Vietnam.</span></article>
-              <article><strong>Vuong Tuong Van</strong><span>Teacher and engineer; work and teaching related to landscape, soils, and natural regionalization.</span></article>
+              <article><strong>Vuong Tuong Van</strong><span>Teaching and work related to landscape, soils, and natural regionalization.</span></article>
             </div>
             <div>
               <h3>Geographic technology, GIS & remote sensing</h3>
-              <article><strong>Tang Van Dom</strong><span>Outstanding geography teacher; encouraged the use of computing and digital methods in geographic research.</span></article>
+              <article><strong>Tang Van Dom</strong><span>Geography teaching that encouraged the use of computing and digital methods in geographic research.</span></article>
               <article><strong>Assoc. Prof. Le Van Trung</strong><span>GIS, remote sensing, and spatial technologies for resource management.</span></article>
               <article><strong>Assoc. Prof. Le Trung Chon</strong><span>GIS, remote sensing, spatial modeling, and digital territorial analysis.</span></article>
               <article><strong>Prof. Vo Quang Minh</strong><span>Integrated geography, GIS, remote sensing, soils, and applied geoinformatics education.</span></article>
@@ -162,11 +176,26 @@
 
         <div class="flow-arrow" aria-hidden="true">↓</div>
 
-        <section class="lineage-stage direct-stage">
-          <div class="stage-label">04 / DIRECT INFLUENCES</div>
-          <div class="lineage-grid two">
-            <article><strong>Tang Van Dom</strong><span>High-school geography teacher who established a strong foundation in physical geography and encouraged geographic research with computers.</span></article>
-            <article><strong>Vuong Tuong Van</strong><span>A major university-era influence on physical-geography thinking, landscape interpretation, and natural regionalization.</span></article>
+        <section class="lineage-stage influence-stage">
+          <div class="stage-label">04 / CONTEMPORARY INTELLECTUAL & METHODOLOGICAL INFLUENCES</div>
+          <div class="lineage-grid">
+            <article><strong>V.S. Tikunov</strong><span>Geoinformatics, spatial systems, GIS, cartographic modeling, and geographic information science.</span></article>
+            <article><strong>Andrew Crooks</strong><span>Agent-based modeling integrated with GIS to explore human behavior, urban systems, and socio-spatial processes.</span></article>
+            <article><strong>Philippe Caillou</strong><span>Multi-agent simulation, complex systems, and computational modeling of collective behavior.</span></article>
+            <article><strong>Benoit Gaudou</strong><span>Agent-based modeling, simulation methodology, formalization, and reproducible computational experiments.</span></article>
+            <article><strong>Arnaud Grignard</strong><span>Urban analytics, agent-based modeling, complex systems, and city-scale simulation.</span></article>
+            <article><strong>Chi Quang Truong</strong><span>Spatial simulation, GIS-integrated agent systems, and geographically explicit modeling.</span></article>
+            <article><strong>Patrick Taillandier</strong><span>Agent-based modeling, spatial simulation, the GAMA modeling ecosystem, and decision-support applications.</span></article>
+          </div>
+
+          <div class="expertise-focus">
+            <strong>Methods emphasized in the current profile</strong>
+            <ul>
+              <li>Integration of agent-based modeling (ABM) and geographic information systems (GIS) to explore human behavior.</li>
+              <li>Natural and socio-economic environments, with a specific emphasis on urban areas and spatially explicit systems.</li>
+              <li>GIS, spatial analysis, social network analysis, social media data, and agent-based modeling methodologies.</li>
+            </ul>
+            <a class="method-link" href="http://www.gisagents.org/" target="_blank" rel="noopener">Related methodological reference: GIS & Agents ↗</a>
           </div>
         </section>
 
