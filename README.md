@@ -18,9 +18,17 @@ The website separates two evidence levels:
 - `/roadmap/` — 2026–2036 five-phase strategic roadmap
 - `/cv/` — Condensed academic CV
 
-## Local preview
+## Publish with GitHub Pages
 
-This repository is intentionally lightweight and uses GitHub Pages/Jekyll conventions. Pushes to `main` are deployed by `.github/workflows/pages.yml`.
+This repository is intentionally lightweight and follows standard Jekyll/GitHub Pages conventions. Enable it once in:
+
+**Repository Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` → Folder: `/(root)` → Save.**
+
+After GitHub finishes the first build, the expected project-page URL is:
+
+`https://base27-cvnss.github.io/LogpWoy/`
+
+The attempted Actions-based auto-enablement was intentionally removed because the connected GitHub integration can write repository content but does not have permission to create/enable the Pages site itself.
 
 ## Content note
 
