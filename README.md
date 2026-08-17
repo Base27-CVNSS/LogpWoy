@@ -14,6 +14,25 @@ Working pipeline:
 
 `GEODATA → HUMAN BEHAVIOR → ABM + GIS → SPATIAL INTELLIGENCE → DECISION SUPPORT`
 
+## Manifesto
+
+The new `/about/` page presents **A Manifesto for Pursuing Geoinformatics** around four principles:
+
+- **Geography is the intellectual foundation.**
+- **Computing is the problem-solving instrument.**
+- **Environment, economy, and society are the coupled research system.**
+- **People remain at the center of analysis and decision-making.**
+
+The long-term purpose is to translate geographic knowledge into computational models, intelligent spatial systems, and decision support for **sustainable development, climate resilience, Net Zero 2050 pathways, livelihood transition, renewable energy, and the circular economy**.
+
+Manifesto pipeline:
+
+`GEOGRAPHY → SPATIAL DATA → COMPUTATION → MODELING & AI → HUMAN-CENTERED DECISIONS`
+
+Technical-research pipeline:
+
+`GEOGRAPHIC KNOWLEDGE → GIS / BIM / DATA → SIMULATION → GEOAI / GEONLP → SPATIAL AGENTS → DECISION SUPPORT`
+
 ## Current position
 
 **Department of Engineering and Technology**  
@@ -88,6 +107,7 @@ These are **proposed manuscripts / research-paper concepts**, not claims of publ
 ## Pages
 
 - `/` — Profile
+- `/about/` — About / Geoinformatics manifesto
 - `/research/` — Research architecture
 - `/publications/` — Paper portfolio
 - `/projects/` — Research systems
