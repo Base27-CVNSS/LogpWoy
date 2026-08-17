@@ -2,65 +2,78 @@
 layout: default
 title: "Academic CV"
 permalink: /cv/
-description: "Condensed academic CV of Ngô Hoàng Đại Long."
+description: "Academic CV of Long Ngo (Ngô Hoàng Đại Long / N.H.D.L.) in geoinformatics and environmental systems research."
 ---
 
 <div class="kicker">Curriculum vitae</div>
 
-# Academic CV
+# Long Ngo
 
-## Ngô Hoàng Đại Long
-
+**Full name:** Ngô Hoàng Đại Long  
+**Research initials:** N.H.D.L.  
 **Current role:** Researcher, VNU-HCM Branch in Ben Tre Province  
 **Unit:** Postgraduate Studies – Science & Technology  
-**Current degree stated in the supplied LLKH:** M.A. / Master's degree in Geography  
-**Research positioning:** Environmental Geography · GIS/Remote Sensing · GeoAI · Vietnamese NLP/LLM · environmental knowledge and decision support
+**Current degree stated in the supplied LLKH:** Master's degree in Geography  
+**Research identity:** Geoinformatics · Ecological Engineering Simulation · Environmental Modeling · Computational Social Science · WebGeo/WebGIS · GeoNLP · GeoAI · Spatial Agents
 
-<div class="notice"><strong>CV status note:</strong> the supplied LLKH is a strategic draft. The future-facing 2026–2036 sections are presented here as a roadmap, not as completed academic credentials or achievements.</div>
+<div class="notice neutral"><strong>Profile benchmark:</strong> the CV is structured toward an internationally competitive, top-decile-caliber research profile. This is a positioning target and quality benchmark, not a claim of verified top-10% bibliometric status.</div>
+
+## Research profile
+
+Long Ngo develops a cross-disciplinary research program around **spatially grounded intelligence for environmental and social systems**. The program extends an established foundation in environmental geography, coastal livelihoods, climate-change adaptation and GIS toward geoinformatics, environmental simulation, GeoNLP, GeoAI and AI agents that can reason with geographic context.
+
+The intended research signature is:
+
+**SPACE × ECOLOGY × SOCIETY × LANGUAGE × AGENTS**
+
+## Core expertise
+
+- **Geoinformatics:** GIS, remote sensing, spatial databases, geospatial data engineering, geostatistics, GeoJSON/PostGIS and reproducible spatial analytics.
+- **Ecological engineering simulation:** environmental modeling, ecological process abstraction, risk scenarios, coupled human–environment systems and decision-oriented simulation.
+- **Computational social science:** livelihood systems, local knowledge, spatial indicators, adaptation behavior and agent-based modeling.
+- **WebGeo / WebGIS:** browser-native geospatial computation, spatial APIs, interactive environmental models and decision dashboards.
+- **GeoNLP:** geographic NER, place resolution, geocoding, spatial relation extraction, document-to-map pipelines and spatial-textual knowledge graphs.
+- **GeoAI & spatial agents:** multimodal spatial evidence, RAG, tool-using agents, spatial memory, map-aware planning and multi-agent decision systems.
 
 ## Education & training foundation
 
 - **2004–2008 — Tourism Geography.** Regional tourism linkages, tourism-resource survey/mapping and spatial analysis.
 - **2010–2014/2015 — Master's in Geography.** Coastal/island ecotourism in Ha Tien–Kien Giang; ecological economy and marine-island geography.
-- **Natural Resources & Environmental Management — doctoral/research direction described in the LLKH.** The strategic document proposes continuing toward a GIS–GeoAI–NLP/LLM-oriented doctoral direction; this website does not present the doctoral degree as completed.
+- **Natural Resources & Environmental Management — doctoral/research direction described in the LLKH.** The strategic document proposes a GIS–GeoAI–NLP/LLM-oriented doctoral direction; this website does not present a doctoral degree as completed.
 - Applied GIS for social-environmental research.
 
 ## Professional trajectory
 
-| Period | Role / activity | Academic value |
+| Period | Role / activity | Research value |
 |---|---|---|
 | 2010–2020 | Researcher, postgraduate academic administration and project work at the University of Social Sciences and Humanities, VNU-HCM | Coastal/island research, livelihoods, climate change, GIS, workshops, proceedings and research-file administration |
-| 2017–2026 | Natural Resources & Environmental Management doctoral/research direction stated in the LLKH | Ecological economy, environmental resources, GIS, modeling and data-oriented transition |
+| 2017–2026 | Natural Resources & Environmental Management doctoral/research direction stated in the LLKH | Environmental resources, ecological economy, GIS, modeling and data-oriented transition |
 | 2021–2026 | Researcher at VNU-HCM Branch in Ben Tre Province | Postgraduate work, S&T coordination, quality assurance, research data/evidence and task administration |
-| 2026–2028 | Scientific-secretariat role for the oyster-farming task described in the strategic LLKH | Planned/current coordination of data, reporting, traceability, training and science communication |
+| 2026–2028 | Scientific-secretariat role for the oyster-farming task described in the strategic LLKH | Data coordination, reporting, traceability, training and science communication |
 
-## Accumulated capabilities
+## Selected established research foundations
 
-- **Environmental and coastal geography:** livelihoods, climate adaptation, salinity, flooding, water resources, coastal zones and islands.
-- **GIS, remote sensing and spatial data:** sustainable-livelihood mapping, land-use change, shoreline/coastal risk and composite indices.
-- **Community/local knowledge:** field surveys, local adaptation knowledge, coconut/salt/ecotourism livelihood systems.
-- **Research governance:** proposals, budgets, contracts, specialist appendices, field logs, evidence, acceptance/completion documentation.
-- **Scientific publication/editing:** international/domestic articles and conferences, books/chapters, proceedings and training documents are listed as capability categories in the strategic LLKH.
-- **AI/NLP/LLM transition:** planned transformation of accumulated text, GIS and field datasets into corpora, ontologies, RAG systems and decision-support dashboards.
+- Integrated freshwater-resource management on Ly Son Island and marine-island resource-position research in Kien Giang.
+- Climate-change livelihood adaptation around the Ba Lai sluice/dam system, Ben Tre.
+- *Application of GIS for Integrating Sustainable Livelihood Security Index: Phu Quoc Island* (2018).
+- Climate-smart agriculture and climate-change adaptation in the Mekong Delta.
+- *Assessment of Changes in the Land Use Structure in Tra Vinh Province under Climate Change and Sea Level Rise* (2020).
+- Sustainable livelihoods linked to conservation in the Can Gio mangrove biosphere reserve.
 
-## Selected research themes / works cited in the strategic LLKH
+## Five current manuscript concepts
 
-- 2016 — Integrated freshwater-resource management on Ly Son Island; marine-island resource-position research in Kien Giang; ecotourism/craft-village development in Binh Duong.
-- 2017–2019 — Documentary evidence on Vietnam's sovereignty over Hoang Sa–Truong Sa.
-- 2018–2020 — Climate-change livelihood adaptation around the Ba Lai sluice/dam, Ben Tre.
-- 2018 — *Application of GIS for Integrating Sustainable Livelihood Security Index: Phu Quoc Island*.
-- 2019 — Climate-smart agriculture and climate-change adaptation in the Mekong Delta.
-- 2020 — *Assessment of Changes in the Land Use Structure in Tra Vinh Province under Climate Change and Sea Level Rise*.
-- 2019–2021 — Sustainable-livelihood model linked to conservation in the Can Gio mangrove biosphere reserve.
+1. **Spatial Agents for Environmental Decision-Making: A GeoAI–LLM Architecture with WebGIS, Tool Use and Geographic Memory** — proposed manuscript, 2026.
+2. **GeoNLP for Vietnamese Environmental Intelligence: Linking Place Names, Local Knowledge and Policy Evidence in the Mekong Delta** — proposed manuscript, 2026.
+3. **Ecological Engineering Simulation of Salinity–Livelihood Dynamics in Coastal Mekong Delta: Coupling GIS, Agent-Based Modeling and Field Evidence** — proposed manuscript, 2026.
+4. **WebGeo: A Browser-Native Architecture for Reproducible Geospatial Environmental Modeling** — proposed manuscript, 2026.
+5. **Spatially Grounded Multi-Agent Systems for Climate Adaptation Planning: Integrating Social Computation, Local Knowledge and GeoAI** — proposed manuscript, 2026.
 
-## Strategic research statement 2026–2036
+These are research-development titles, not publication claims. Full citation metadata should be added only after real submission or publication evidence exists.
 
-The proposed long-term direction is to build **Spatial-Textual Environmental Intelligence for Coastal Resource Management in the Mekong Delta**, integrating:
+## Strategic research objective
 
-**spatial observations + environmental documents + local knowledge + GeoAI + Vietnamese NLP/LLM + knowledge graphs/RAG + GIS-based decision support.**
-
-The intended doctoral research core in the LLKH is: **developing an integrated model of spatial data, textual data and local knowledge to support resource and environmental management in the coastal Mekong Delta.**
+Develop an internationally competitive research program in **geoinformatics and spatial environmental intelligence**, with distinctive contributions at the intersection of environmental systems modeling, computational social science, geographic language intelligence and spatially grounded AI agents.
 
 ## Public profile policy
 
-This website intentionally omits personal information that is not necessary for an academic public profile, such as date of birth. Contact identifiers such as institutional email, ORCID, Google Scholar, Scopus Author ID and verified DOI links should be added only when supplied or verified.
+The public CV omits nonessential personal information such as date of birth. Institutional email, ORCID, Google Scholar, Scopus Author ID, DOI links, datasets and code links should be added only when supplied or verified.
