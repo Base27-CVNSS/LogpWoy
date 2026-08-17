@@ -1,22 +1,25 @@
-title: "Ngô Hoàng Đại Long"
+title: "Long Ngo"
 name: "Ngô Hoàng Đại Long"
-description: "Environmental Geography · GIS · GeoAI · NLP/LLM"
+description: "Geoinformatics · Ecological Engineering Simulation · WebGeo · WebGIS · GeoNLP · GeoAI · Spatial Agents"
 url: "https://base27-cvnss.github.io"
 baseurl: "/LogpWoy"
 repository: "Base27-CVNSS/LogpWoy"
-lang: "vi"
+lang: "en"
 markdown: kramdown
 permalink: pretty
 future: false
 
 profile:
-  name: "Ngô Hoàng Đại Long"
-  role: "Researcher"
+  name: "Long Ngo"
+  fullname: "Ngô Hoàng Đại Long"
+  initials: "N.H.D.L."
+  role: "Geoinformatics & Environmental Systems Researcher"
   affiliation: "VNU-HCM Branch in Ben Tre Province"
   unit: "Postgraduate Studies – Science & Technology"
   location: "Ben Tre, Viet Nam"
   github: "https://github.com/Base27-CVNSS/LogpWoy"
-  tagline: "Environmental Geography → GIS/Remote Sensing → GeoAI → NLP/LLM → Knowledge & Decision Support"
+  tagline: "Geoinformatics · Ecological engineering simulation · Spatial computation · WebGeo/WebGIS · GeoNLP/GeoAI · Spatial agents"
+  benchmark: "International top-decile research-profile benchmark — positioning target, not a bibliometric ranking claim"
 
 exclude:
   - README.md
