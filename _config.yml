@@ -17,7 +17,9 @@ profile:
   affiliation: "VNU-HCM Branch in Ben Tre Province"
   unit: "Postgraduate Studies – Science & Technology"
   location: "Ben Tre, Viet Nam"
+  image: "/assets/img/long-ngo-academic.jpg"
   github: "https://github.com/Base27-CVNSS/LogpWoy"
+  website: "https://base27-cvnss.github.io/LogpWoy/"
   tagline: "Geoinformatics · Ecological engineering simulation · Spatial computation · WebGeo/WebGIS · GeoNLP/GeoAI · Spatial agents"
   benchmark: "International top-decile research-profile benchmark — positioning target, not a bibliometric ranking claim"
 
