@@ -1,6 +1,6 @@
 title: "Long Ngo"
 name: "Ngô Hoàng Đại Long"
-description: "Geoinformatics · Environmental Systems · Simulation · WebGeo/WebGIS · GeoNLP · GeoAI · Spatial Agents"
+description: "Geoinformatics · ABM + GIS · Human Behavior · Urban Systems · Environmental Simulation · WebGeo/WebGIS · GeoNLP · GeoAI · Spatial Agents"
 url: "https://base27-cvnss.github.io"
 baseurl: "/LogpWoy"
 repository: "Base27-CVNSS/LogpWoy"
@@ -22,8 +22,8 @@ profile:
   github: "https://github.com/Base27-CVNSS/LogpWoy"
   website: "https://base27-cvnss.github.io/LogpWoy/"
   image: "/assets/img/long-ngo-academic.jpg"
-  tagline: "Geoinformatics · Environmental modeling · Ecological engineering simulation · WebGeo/WebGIS · GeoNLP/GeoAI · Spatial agents"
-  lineage_label: "Academic lineage & current position"
+  tagline: "Geoinformatics · ABM + GIS · Human behavior · Urban systems · Environmental modeling · GeoNLP/GeoAI · Spatial agents"
+  lineage_label: "Influences, methods & current position"
 
 exclude:
   - README.md
