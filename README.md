@@ -1,35 +1,54 @@
-# LogpWoy — Academic Profile of Ngô Hoàng Đại Long
+# Long Ngo — Geoinformatics & Environmental Systems
 
-A minimalist academic CV / research profile website for **Ngô Hoàng Đại Long**, designed for GitHub Pages and visually inspired by the clear author-sidebar + publication-list structure used by `xw-hu.github.io` / AcademicPages.
+Academic research profile of **Long Ngo**, the professional name used for **Ngô Hoàng Đại Long (N.H.D.L.)**.
 
-## Scope
+The site is designed as a compact, high-signal academic profile in the style of leading researcher websites: a persistent author identity, clear research signature, concise publication architecture and a strong separation between verified evidence and forward-looking research development.
 
-The website separates two evidence levels:
+## Research identity
 
-- **Established background (2016–2026):** education, positions, selected research themes and works explicitly mentioned in the supplied LLKH.
-- **Strategic direction (2026–2036):** GeoAI, NLP/LLM, environmental knowledge graphs, RAG and decision-support plans. These are always labelled as *planned / proposed / strategic* and are not presented as completed achievements.
+**Geoinformatics · Ecological Engineering Simulation · Environmental Modeling · Computational Social Science · WebGeo · WebGIS · GeoNLP · GeoAI · Spatial Agents**
 
-## Pages
+The long-term research signature is:
 
-- `/` — Academic profile
-- `/research/` — Research framework and methods
-- `/publications/` — Selected works + clearly separated publication agenda
-- `/projects/` — Research/project trajectory
-- `/roadmap/` — 2026–2036 five-phase strategic roadmap
-- `/cv/` — Condensed academic CV
+`SPACE × ECOLOGY × SOCIETY × LANGUAGE × AGENTS`
+
+The profile develops an environmental-geography and GIS foundation toward spatial computation, ecological simulation, geographic language intelligence and AI agents that can reason with maps, locations, geospatial tools and environmental evidence.
+
+## International positioning
+
+The site is intentionally structured toward an **international top-decile-caliber research-profile benchmark**: coherent specialization, reproducible methods, strong research architecture, identifiable research questions and publication continuity.
+
+This is a **positioning target and quality benchmark**, not a claim that Long Ngo currently holds a verified top-10% global bibliometric ranking.
+
+## Five current manuscript concepts
+
+1. *Spatial Agents for Environmental Decision-Making: A GeoAI–LLM Architecture with WebGIS, Tool Use and Geographic Memory*
+2. *GeoNLP for Vietnamese Environmental Intelligence: Linking Place Names, Local Knowledge and Policy Evidence in the Mekong Delta*
+3. *Ecological Engineering Simulation of Salinity–Livelihood Dynamics in Coastal Mekong Delta: Coupling GIS, Agent-Based Modeling and Field Evidence*
+4. *WebGeo: A Browser-Native Architecture for Reproducible Geospatial Environmental Modeling*
+5. *Spatially Grounded Multi-Agent Systems for Climate Adaptation Planning: Integrating Social Computation, Local Knowledge and GeoAI*
+
+These are **draft/proposed manuscripts**, not published-paper claims. DOI, journal, volume/issue and formal citation metadata must only be added after real submission/acceptance/publication evidence exists.
+
+## Site structure
+
+- `/` — Long Ngo academic profile and research signature
+- `/research/` — geoinformatics, ecological simulation, GeoNLP/GeoAI and spatial-agent architecture
+- `/publications/` — previous works mentioned in the LLKH + five current manuscript concepts
+- `/projects/` — research/project trajectory
+- `/roadmap/` — strategic development roadmap
+- `/cv/` — condensed academic CV
 
 ## Publish with GitHub Pages
 
-This repository is intentionally lightweight and follows standard Jekyll/GitHub Pages conventions. Enable it once in:
+Enable once in:
 
 **Repository Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` → Folder: `/(root)` → Save.**
 
-After GitHub finishes the first build, the expected project-page URL is:
+Expected URL:
 
 `https://base27-cvnss.github.io/LogpWoy/`
 
-The attempted Actions-based auto-enablement was intentionally removed because the connected GitHub integration can write repository content but does not have permission to create/enable the Pages site itself.
+## Evidence policy
 
-## Content note
-
-The strategic LLKH states that future items from 2026–2036 are scenario-based planning material. The website preserves that distinction to avoid presenting planned papers, projects, degrees or positions as already completed.
+The underlying strategic LLKH distinguishes established background from future-oriented 2026–2036 plans. This repository preserves that boundary: proposed papers, projects, degrees, labs and benchmark targets are explicitly labeled rather than presented as completed achievements.
