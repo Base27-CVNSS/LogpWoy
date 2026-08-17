@@ -57,6 +57,7 @@
       </a>
       <nav class="nav" aria-label="Primary">
         <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active" aria-current="page"{% endif %}>Profile</a>
+        <a href="{{ '/about/' | relative_url }}" {% if page.url contains '/about/' %}class="active" aria-current="page"{% endif %}>About</a>
         <a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research/' %}class="active" aria-current="page"{% endif %}>Research</a>
         <a href="{{ '/publications/' | relative_url }}" {% if page.url contains '/publications/' %}class="active" aria-current="page"{% endif %}>Papers</a>
         <a href="{{ '/projects/' | relative_url }}" {% if page.url contains '/projects/' %}class="active" aria-current="page"{% endif %}>Projects</a>
